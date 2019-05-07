@@ -9,14 +9,9 @@ package Modelo;
  *
  * @author Koala
  */
-public class Mesa {
-    private String mesa;
-    private String cliente; 
-    
-    private String nome; 
-    private String produto; 
-    private String subtotal;
-    
-    
-    
+public class Produto {
+   private double preco;
+   private String nome;
+   private int idDoproduto; 
+   
 }
